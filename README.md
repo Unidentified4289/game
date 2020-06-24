@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/delaford/game)](https://repl.it/github/delaford/game)
 <p align="center">
   <img src="https://github.com/Delaford/game/raw/master/src/assets/github/logo.png"/>
 </p>
